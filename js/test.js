@@ -1,2 +1,2 @@
 
-document.write("网页开发中……");
+document.write("开发中……");
