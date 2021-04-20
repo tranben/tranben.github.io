@@ -1,2 +1,2 @@
 # tranben.github.io
-千博恩
+Tranben's home page.
